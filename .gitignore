@@ -1,0 +1,17 @@
+*.iml
+.idea
+target/
+
+# Mac
+*.DS_Store
+
+# VS code
+/.vscode/
+
+**/bower_components/
+**/webpack.config.js
+**/webpack.generated.js
+**/node_modules
+**/package-lock.json
+**/package.json
+**/node/
